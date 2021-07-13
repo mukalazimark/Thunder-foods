@@ -1,0 +1,109 @@
+/*white #eeebcc;
+orange #ee4e21;
+gray #a2a3a5;*/
+
+body {
+    background-color: #1f2a41;
+}
+
+.container {
+    margin-top: 25px;
+    background: url(images/webbg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 30px;
+    box-shadow: 5px 5px 10px black;
+}
+
+.nav-brand {
+    padding-top: 30px;
+    font-size: 25px;
+    color: #ee4e21;
+}
+
+.navbar {
+    margin-left: 40%;
+    padding-top: 20px;
+    font-size: 20px;
+}
+
+.nav-link {
+    color: #eeebcc;
+}
+
+.active {
+    background-color: #ee4e21;
+    border-radius: 20px;
+}
+
+.heading {
+    text-align: center;
+}
+
+.heading h1 {
+    color: #ee4e21;
+}
+
+.heading h3 {
+    color: #eeebcc;
+}
+
+.row {
+    padding-top: 30px;
+    padding-left: 85px;
+}
+
+.col-sm-2 {
+    margin-right: 20px;
+    font-size: 30px;
+    font-weight: 200;
+    text-align: center;
+    color: #ee4e21;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+}
+
+.details {
+    /* position: absolute;
+  top: 30%;*/
+    left: 25%;
+}
+
+.details strong {
+    padding-top: 10px;
+    /*font-size: 20px;*/
+}
+
+.price {
+    color: #eeebcc;
+    position: absolute;
+    top: 50%;
+    left: 30%;
+}
+
+.footer-heading {
+    text-align: center;
+    color: #ee4e21;
+    font-size: 20px;
+    padding-bottom: 30px;
+}
+
+.footer-details {
+    padding-top: 50px;
+    padding-left: 100px;
+    color: #eeebcc;
+}
+
+.fa {
+    color: #a2a3a5;
+    padding-right: 10px;
+    padding-left: 30px;
+}
+
+.badge-warning {
+    background-color: white;
+    color: #ee4e21;
+    font-size: 15px;
+    border-radius: 30px;
+}
