@@ -1,0 +1,4 @@
+background:#EDD0F9,#7F7995;
+container:#F1F2F6;
+blue:#017AFF;
+purple:#9471FE;
